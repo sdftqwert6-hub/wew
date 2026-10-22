@@ -31,9 +31,9 @@ git check-ignore -v test.log
 
 ## Работа с Git
 
-```bash
-git init
-git status
+теперь мы вносим изменения
+
+
 git add .
 git commit -m "Подготовлен проект для размещения на GitHub"
 git log --oneline
